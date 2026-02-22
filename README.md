@@ -1,1 +1,1 @@
-# certifications
+# Technical certifications
