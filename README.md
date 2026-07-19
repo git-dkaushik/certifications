@@ -1,4 +1,4 @@
-Certifications
+# Certifications
 
 A summary of professional certifications, issuing bodies, and validation links.
 
