@@ -5,7 +5,7 @@ A summary of professional certifications, issuing bodies, and validation links.
 ## Microsoft Certified: Azure Fundamentals (AZ-900)
 
 Issued by: Microsoft
-Focus: Core Azure services, cloud concepts, pricing, and support models.
+Focus: Core Azure services, cloud concepts, pricing, and support models.<br>
 **Validation:** [Validate certificate](https://learn.microsoft.com/en-us/users/deepanshukaushik2/credentials/330655ce4bd86fd2)
 
 ## Generative AI Foundations
